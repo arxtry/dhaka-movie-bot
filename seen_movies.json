@@ -3,11 +3,11 @@
     "starcineplex.com",
     "Performing security verification",
     "Movies",
+    "Soy",
     "ClayFace",
     "Onnopata",
     "Resident Evil 2026",
     "Spiderman brand new day",
-    "The Strangers Chapter 3 2026",
     "Bonolota Express",
     "Abar Hotath Bristi",
     "2D & 3D Archive",
@@ -25,10 +25,9 @@
     "Ready for the Ultimate Movie Experience?",
     "Contact Us",
     "We Accept Payment Methods",
-    "Boss 2",
-    "View Details",
-    "Next Week Showing From Thursday, Nov 12, 2026",
     "Anondo Osru",
+    "View Details",
+    "Next Week Showing",
     "Upcoming Movies",
     "Our Gallery",
     "Let\u2019s connect"
@@ -63,6 +62,18 @@
         "high": 800,
         "tip": "Best value: 12:00 PM\u20133:00 PM Sun\u2013Wed in IRIS/UTSHOB halls (\u09f3400) before Kuril rush hour.",
         "times": []
+      }
+    ],
+    "Soy": [
+      {
+        "theatre": "Blockbuster Cinemas (Jamuna Future Park)",
+        "url": "https://blockbusterbd.com/Schedule",
+        "low": 400,
+        "high": 800,
+        "tip": "Best value: 12:00 PM\u20133:00 PM Sun\u2013Wed in IRIS/UTSHOB halls (\u09f3400) before Kuril rush hour.",
+        "times": [
+          "5:00 pm"
+        ]
       }
     ],
     "ClayFace": [
@@ -113,18 +124,6 @@
           "02:15 pm",
           "06:30 pm",
           "12:30 pm"
-        ]
-      }
-    ],
-    "The Strangers Chapter 3 2026": [
-      {
-        "theatre": "Blockbuster Cinemas (Jamuna Future Park)",
-        "url": "https://blockbusterbd.com/Schedule",
-        "low": 400,
-        "high": 800,
-        "tip": "Best value: 12:00 PM\u20133:00 PM Sun\u2013Wed in IRIS/UTSHOB halls (\u09f3400) before Kuril rush hour.",
-        "times": [
-          "05:00 pm"
         ]
       }
     ],
@@ -304,7 +303,7 @@
         "times": []
       }
     ],
-    "Boss 2": [
+    "Anondo Osru": [
       {
         "theatre": "Shyamoli Cinema (Shyamoli Square)",
         "url": "https://shyamolicinema.com/",
@@ -324,17 +323,7 @@
         "times": []
       }
     ],
-    "Next Week Showing From Thursday, Nov 12, 2026": [
-      {
-        "theatre": "Shyamoli Cinema (Shyamoli Square)",
-        "url": "https://shyamolicinema.com/",
-        "low": 300,
-        "high": 400,
-        "tip": "Best budget central-west option (\u09f3300).",
-        "times": []
-      }
-    ],
-    "Anondo Osru": [
+    "Next Week Showing": [
       {
         "theatre": "Shyamoli Cinema (Shyamoli Square)",
         "url": "https://shyamolicinema.com/",
