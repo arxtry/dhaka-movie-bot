@@ -1,0 +1,378 @@
+{
+  "known_movies": [
+    "starcineplex.com",
+    "Performing security verification",
+    "Movies",
+    "ClayFace",
+    "Onnopata",
+    "Resident Evil 2026",
+    "Spiderman brand new day",
+    "The Strangers Chapter 3 2026",
+    "Bonolota Express",
+    "Abar Hotath Bristi",
+    "2D & 3D Archive",
+    "Company",
+    "We accept",
+    "Newsletter",
+    "\ud83c\udf9e Movies",
+    "Feel the Roar of Cinema",
+    "The Lion Cinemas Experience",
+    "Dolby Atmos Sound",
+    "Luxury Seating",
+    "Ultra HD Screens",
+    "Premium Snacks",
+    "Action Blockbuster",
+    "Ready for the Ultimate Movie Experience?",
+    "Contact Us",
+    "We Accept Payment Methods",
+    "Boss 2",
+    "View Details",
+    "Next Week Showing From Thursday, Nov 12, 2026",
+    "Anondo Osru",
+    "Upcoming Movies",
+    "Our Gallery",
+    "Let\u2019s connect"
+  ],
+  "last_update_id": 0,
+  "catalog": {
+    "starcineplex.com": [
+      {
+        "theatre": "Star Cineplex (All Dhaka Branches)",
+        "url": "https://cineplexbd.com/showtime",
+        "low": 350,
+        "high": 1000,
+        "tip": "Cheapest: Weekday Matinee < 3 PM (\u09f3350). Best experience: Dolby Atmos at Bashundhara/SKS/Sony Square.",
+        "times": []
+      }
+    ],
+    "Performing security verification": [
+      {
+        "theatre": "Star Cineplex (All Dhaka Branches)",
+        "url": "https://cineplexbd.com/showtime",
+        "low": 350,
+        "high": 1000,
+        "tip": "Cheapest: Weekday Matinee < 3 PM (\u09f3350). Best experience: Dolby Atmos at Bashundhara/SKS/Sony Square.",
+        "times": []
+      }
+    ],
+    "Movies": [
+      {
+        "theatre": "Blockbuster Cinemas (Jamuna Future Park)",
+        "url": "https://blockbusterbd.com/Schedule",
+        "low": 400,
+        "high": 800,
+        "tip": "Best value: 12:00 PM\u20133:00 PM Sun\u2013Wed in IRIS/UTSHOB halls (\u09f3400) before Kuril rush hour.",
+        "times": []
+      }
+    ],
+    "ClayFace": [
+      {
+        "theatre": "Blockbuster Cinemas (Jamuna Future Park)",
+        "url": "https://blockbusterbd.com/Schedule",
+        "low": 400,
+        "high": 800,
+        "tip": "Best value: 12:00 PM\u20133:00 PM Sun\u2013Wed in IRIS/UTSHOB halls (\u09f3400) before Kuril rush hour.",
+        "times": [
+          "07:30 pm"
+        ]
+      }
+    ],
+    "Onnopata": [
+      {
+        "theatre": "Blockbuster Cinemas (Jamuna Future Park)",
+        "url": "https://blockbusterbd.com/Schedule",
+        "low": 400,
+        "high": 800,
+        "tip": "Best value: 12:00 PM\u20133:00 PM Sun\u2013Wed in IRIS/UTSHOB halls (\u09f3400) before Kuril rush hour.",
+        "times": [
+          "07:00 pm"
+        ]
+      }
+    ],
+    "Resident Evil 2026": [
+      {
+        "theatre": "Blockbuster Cinemas (Jamuna Future Park)",
+        "url": "https://blockbusterbd.com/Schedule",
+        "low": 400,
+        "high": 800,
+        "tip": "Best value: 12:00 PM\u20133:00 PM Sun\u2013Wed in IRIS/UTSHOB halls (\u09f3400) before Kuril rush hour.",
+        "times": [
+          "05:30 pm",
+          "07:00 pm"
+        ]
+      }
+    ],
+    "Spiderman brand new day": [
+      {
+        "theatre": "Blockbuster Cinemas (Jamuna Future Park)",
+        "url": "https://blockbusterbd.com/Schedule",
+        "low": 400,
+        "high": 800,
+        "tip": "Best value: 12:00 PM\u20133:00 PM Sun\u2013Wed in IRIS/UTSHOB halls (\u09f3400) before Kuril rush hour.",
+        "times": [
+          "02:15 pm",
+          "06:30 pm",
+          "12:30 pm"
+        ]
+      }
+    ],
+    "The Strangers Chapter 3 2026": [
+      {
+        "theatre": "Blockbuster Cinemas (Jamuna Future Park)",
+        "url": "https://blockbusterbd.com/Schedule",
+        "low": 400,
+        "high": 800,
+        "tip": "Best value: 12:00 PM\u20133:00 PM Sun\u2013Wed in IRIS/UTSHOB halls (\u09f3400) before Kuril rush hour.",
+        "times": [
+          "05:00 pm"
+        ]
+      }
+    ],
+    "Bonolota Express": [
+      {
+        "theatre": "Blockbuster Cinemas (Jamuna Future Park)",
+        "url": "https://blockbusterbd.com/Schedule",
+        "low": 400,
+        "high": 800,
+        "tip": "Best value: 12:00 PM\u20133:00 PM Sun\u2013Wed in IRIS/UTSHOB halls (\u09f3400) before Kuril rush hour.",
+        "times": [
+          "03:35 PM",
+          "06:40 pm",
+          "12:30 pm"
+        ]
+      }
+    ],
+    "Abar Hotath Bristi": [
+      {
+        "theatre": "Blockbuster Cinemas (Jamuna Future Park)",
+        "url": "https://blockbusterbd.com/Schedule",
+        "low": 400,
+        "high": 800,
+        "tip": "Best value: 12:00 PM\u20133:00 PM Sun\u2013Wed in IRIS/UTSHOB halls (\u09f3400) before Kuril rush hour.",
+        "times": [
+          "4:15 pm"
+        ]
+      }
+    ],
+    "2D & 3D Archive": [
+      {
+        "theatre": "Blockbuster Cinemas (Jamuna Future Park)",
+        "url": "https://blockbusterbd.com/Schedule",
+        "low": 400,
+        "high": 800,
+        "tip": "Best value: 12:00 PM\u20133:00 PM Sun\u2013Wed in IRIS/UTSHOB halls (\u09f3400) before Kuril rush hour.",
+        "times": []
+      }
+    ],
+    "Company": [
+      {
+        "theatre": "Blockbuster Cinemas (Jamuna Future Park)",
+        "url": "https://blockbusterbd.com/Schedule",
+        "low": 400,
+        "high": 800,
+        "tip": "Best value: 12:00 PM\u20133:00 PM Sun\u2013Wed in IRIS/UTSHOB halls (\u09f3400) before Kuril rush hour.",
+        "times": []
+      }
+    ],
+    "We accept": [
+      {
+        "theatre": "Blockbuster Cinemas (Jamuna Future Park)",
+        "url": "https://blockbusterbd.com/Schedule",
+        "low": 400,
+        "high": 800,
+        "tip": "Best value: 12:00 PM\u20133:00 PM Sun\u2013Wed in IRIS/UTSHOB halls (\u09f3400) before Kuril rush hour.",
+        "times": []
+      }
+    ],
+    "Newsletter": [
+      {
+        "theatre": "Blockbuster Cinemas (Jamuna Future Park)",
+        "url": "https://blockbusterbd.com/Schedule",
+        "low": 400,
+        "high": 800,
+        "tip": "Best value: 12:00 PM\u20133:00 PM Sun\u2013Wed in IRIS/UTSHOB halls (\u09f3400) before Kuril rush hour.",
+        "times": []
+      }
+    ],
+    "\ud83c\udf9e Movies": [
+      {
+        "theatre": "Blockbuster Cinemas (Jamuna Future Park)",
+        "url": "https://blockbusterbd.com/Schedule",
+        "low": 400,
+        "high": 800,
+        "tip": "Best value: 12:00 PM\u20133:00 PM Sun\u2013Wed in IRIS/UTSHOB halls (\u09f3400) before Kuril rush hour.",
+        "times": []
+      }
+    ],
+    "Feel the Roar of Cinema": [
+      {
+        "theatre": "Lion Cinemas (Keraniganj)",
+        "url": "https://lioncinemas.com/",
+        "low": 300,
+        "high": 600,
+        "tip": "Lowest multiplex ticket price in Greater Dhaka (\u09f3300) on weekday afternoons.",
+        "times": []
+      }
+    ],
+    "The Lion Cinemas Experience": [
+      {
+        "theatre": "Lion Cinemas (Keraniganj)",
+        "url": "https://lioncinemas.com/",
+        "low": 300,
+        "high": 600,
+        "tip": "Lowest multiplex ticket price in Greater Dhaka (\u09f3300) on weekday afternoons.",
+        "times": []
+      }
+    ],
+    "Dolby Atmos Sound": [
+      {
+        "theatre": "Lion Cinemas (Keraniganj)",
+        "url": "https://lioncinemas.com/",
+        "low": 300,
+        "high": 600,
+        "tip": "Lowest multiplex ticket price in Greater Dhaka (\u09f3300) on weekday afternoons.",
+        "times": []
+      }
+    ],
+    "Luxury Seating": [
+      {
+        "theatre": "Lion Cinemas (Keraniganj)",
+        "url": "https://lioncinemas.com/",
+        "low": 300,
+        "high": 600,
+        "tip": "Lowest multiplex ticket price in Greater Dhaka (\u09f3300) on weekday afternoons.",
+        "times": []
+      }
+    ],
+    "Ultra HD Screens": [
+      {
+        "theatre": "Lion Cinemas (Keraniganj)",
+        "url": "https://lioncinemas.com/",
+        "low": 300,
+        "high": 600,
+        "tip": "Lowest multiplex ticket price in Greater Dhaka (\u09f3300) on weekday afternoons.",
+        "times": []
+      }
+    ],
+    "Premium Snacks": [
+      {
+        "theatre": "Lion Cinemas (Keraniganj)",
+        "url": "https://lioncinemas.com/",
+        "low": 300,
+        "high": 600,
+        "tip": "Lowest multiplex ticket price in Greater Dhaka (\u09f3300) on weekday afternoons.",
+        "times": []
+      }
+    ],
+    "Action Blockbuster": [
+      {
+        "theatre": "Lion Cinemas (Keraniganj)",
+        "url": "https://lioncinemas.com/",
+        "low": 300,
+        "high": 600,
+        "tip": "Lowest multiplex ticket price in Greater Dhaka (\u09f3300) on weekday afternoons.",
+        "times": []
+      }
+    ],
+    "Ready for the Ultimate Movie Experience?": [
+      {
+        "theatre": "Lion Cinemas (Keraniganj)",
+        "url": "https://lioncinemas.com/",
+        "low": 300,
+        "high": 600,
+        "tip": "Lowest multiplex ticket price in Greater Dhaka (\u09f3300) on weekday afternoons.",
+        "times": []
+      }
+    ],
+    "Contact Us": [
+      {
+        "theatre": "Lion Cinemas (Keraniganj)",
+        "url": "https://lioncinemas.com/",
+        "low": 300,
+        "high": 600,
+        "tip": "Lowest multiplex ticket price in Greater Dhaka (\u09f3300) on weekday afternoons.",
+        "times": []
+      }
+    ],
+    "We Accept Payment Methods": [
+      {
+        "theatre": "Lion Cinemas (Keraniganj)",
+        "url": "https://lioncinemas.com/",
+        "low": 300,
+        "high": 600,
+        "tip": "Lowest multiplex ticket price in Greater Dhaka (\u09f3300) on weekday afternoons.",
+        "times": []
+      }
+    ],
+    "Boss 2": [
+      {
+        "theatre": "Shyamoli Cinema (Shyamoli Square)",
+        "url": "https://shyamolicinema.com/",
+        "low": 300,
+        "high": 400,
+        "tip": "Best budget central-west option (\u09f3300).",
+        "times": []
+      }
+    ],
+    "View Details": [
+      {
+        "theatre": "Shyamoli Cinema (Shyamoli Square)",
+        "url": "https://shyamolicinema.com/",
+        "low": 300,
+        "high": 400,
+        "tip": "Best budget central-west option (\u09f3300).",
+        "times": []
+      }
+    ],
+    "Next Week Showing From Thursday, Nov 12, 2026": [
+      {
+        "theatre": "Shyamoli Cinema (Shyamoli Square)",
+        "url": "https://shyamolicinema.com/",
+        "low": 300,
+        "high": 400,
+        "tip": "Best budget central-west option (\u09f3300).",
+        "times": []
+      }
+    ],
+    "Anondo Osru": [
+      {
+        "theatre": "Shyamoli Cinema (Shyamoli Square)",
+        "url": "https://shyamolicinema.com/",
+        "low": 300,
+        "high": 400,
+        "tip": "Best budget central-west option (\u09f3300).",
+        "times": []
+      }
+    ],
+    "Upcoming Movies": [
+      {
+        "theatre": "Shyamoli Cinema (Shyamoli Square)",
+        "url": "https://shyamolicinema.com/",
+        "low": 300,
+        "high": 400,
+        "tip": "Best budget central-west option (\u09f3300).",
+        "times": []
+      }
+    ],
+    "Our Gallery": [
+      {
+        "theatre": "Shyamoli Cinema (Shyamoli Square)",
+        "url": "https://shyamolicinema.com/",
+        "low": 300,
+        "high": 400,
+        "tip": "Best budget central-west option (\u09f3300).",
+        "times": []
+      }
+    ],
+    "Let\u2019s connect": [
+      {
+        "theatre": "Shyamoli Cinema (Shyamoli Square)",
+        "url": "https://shyamolicinema.com/",
+        "low": 300,
+        "high": 400,
+        "tip": "Best budget central-west option (\u09f3300).",
+        "times": []
+      }
+    ]
+  }
+}
