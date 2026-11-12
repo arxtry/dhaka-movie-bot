@@ -3,6 +3,8 @@ on:
   schedule:
     - cron: '*/15 * * * *'
   workflow_dispatch:
+permissions:
+  contents: write
 jobs:
   scan:
     runs-on: ubuntu-latest
@@ -16,3 +18,10 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python monitor.py
+      - name: Save seen movies state
+        run: |
+          git config user.name "CinemotherBot"
+          git config user.email "bot@users.noreply.github.com"
+          git add seen_movies.json || true
+          git diff --staged --quiet || git commit -m "Update movie catalog"
+          git push
