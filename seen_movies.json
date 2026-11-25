@@ -63,6 +63,82 @@
         "times": []
       }
     ],
+    "Soy": [
+      {
+        "theatre": "Blockbuster Cinemas (Jamuna Future Park)",
+        "url": "https://blockbusterbd.com/Schedule",
+        "low": 400,
+        "high": 800,
+        "tip": "Best value: 12:00 PM\u20133:00 PM Sun\u2013Wed in IRIS/UTSHOB halls (\u09f3400) before Kuril rush hour.",
+        "times": [
+          "5:30 pm",
+          "7:50 pm"
+        ]
+      }
+    ],
+    "Onnopata": [
+      {
+        "theatre": "Blockbuster Cinemas (Jamuna Future Park)",
+        "url": "https://blockbusterbd.com/Schedule",
+        "low": 400,
+        "high": 800,
+        "tip": "Best value: 12:00 PM\u20133:00 PM Sun\u2013Wed in IRIS/UTSHOB halls (\u09f3400) before Kuril rush hour.",
+        "times": [
+          "11:30 am",
+          "4:35 pm"
+        ]
+      }
+    ],
+    "Resident Evil 2026": [
+      {
+        "theatre": "Blockbuster Cinemas (Jamuna Future Park)",
+        "url": "https://blockbusterbd.com/Schedule",
+        "low": 400,
+        "high": 800,
+        "tip": "Best value: 12:00 PM\u20133:00 PM Sun\u2013Wed in IRIS/UTSHOB halls (\u09f3400) before Kuril rush hour.",
+        "times": [
+          "5:30 pm",
+          "7:40 pm"
+        ]
+      }
+    ],
+    "Spiderman brand new day": [
+      {
+        "theatre": "Blockbuster Cinemas (Jamuna Future Park)",
+        "url": "https://blockbusterbd.com/Schedule",
+        "low": 400,
+        "high": 800,
+        "tip": "Best value: 12:00 PM\u20133:00 PM Sun\u2013Wed in IRIS/UTSHOB halls (\u09f3400) before Kuril rush hour.",
+        "times": [
+          "11:30 am",
+          "2:30 pm"
+        ]
+      }
+    ],
+    "Bonolota Express": [
+      {
+        "theatre": "Blockbuster Cinemas (Jamuna Future Park)",
+        "url": "https://blockbusterbd.com/Schedule",
+        "low": 400,
+        "high": 800,
+        "tip": "Best value: 12:00 PM\u20133:00 PM Sun\u2013Wed in IRIS/UTSHOB halls (\u09f3400) before Kuril rush hour.",
+        "times": [
+          "6:50 pm"
+        ]
+      }
+    ],
+    "Abar Hotath Bristi": [
+      {
+        "theatre": "Blockbuster Cinemas (Jamuna Future Park)",
+        "url": "https://blockbusterbd.com/Schedule",
+        "low": 400,
+        "high": 800,
+        "tip": "Best value: 12:00 PM\u20133:00 PM Sun\u2013Wed in IRIS/UTSHOB halls (\u09f3400) before Kuril rush hour.",
+        "times": [
+          "1:45 pm"
+        ]
+      }
+    ],
     "2D & 3D Archive": [
       {
         "theatre": "Blockbuster Cinemas (Jamuna Future Park)",
