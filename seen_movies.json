@@ -8,6 +8,16 @@
     "We accept",
     "Newsletter",
     "\ud83c\udf9e Movies",
+    "Feel the Roar of Cinema",
+    "The Lion Cinemas Experience",
+    "Dolby Atmos Sound",
+    "Luxury Seating",
+    "Ultra HD Screens",
+    "Premium Snacks",
+    "Action Blockbuster",
+    "Ready for the Ultimate Movie Experience?",
+    "Contact Us",
+    "We Accept Payment Methods",
     "Sultan: The Saviour",
     "View Details",
     "Next Week Showing",
@@ -94,6 +104,106 @@
         "low": 400,
         "high": 800,
         "tip": "Best value: 12:00 PM\u20133:00 PM Sun\u2013Wed in IRIS/UTSHOB halls (\u09f3400) before Kuril rush hour.",
+        "times": []
+      }
+    ],
+    "Feel the Roar of Cinema": [
+      {
+        "theatre": "Lion Cinemas (Keraniganj)",
+        "url": "https://lioncinemas.com/",
+        "low": 300,
+        "high": 600,
+        "tip": "Lowest multiplex ticket price in Greater Dhaka (\u09f3300) on weekday afternoons.",
+        "times": []
+      }
+    ],
+    "The Lion Cinemas Experience": [
+      {
+        "theatre": "Lion Cinemas (Keraniganj)",
+        "url": "https://lioncinemas.com/",
+        "low": 300,
+        "high": 600,
+        "tip": "Lowest multiplex ticket price in Greater Dhaka (\u09f3300) on weekday afternoons.",
+        "times": []
+      }
+    ],
+    "Dolby Atmos Sound": [
+      {
+        "theatre": "Lion Cinemas (Keraniganj)",
+        "url": "https://lioncinemas.com/",
+        "low": 300,
+        "high": 600,
+        "tip": "Lowest multiplex ticket price in Greater Dhaka (\u09f3300) on weekday afternoons.",
+        "times": []
+      }
+    ],
+    "Luxury Seating": [
+      {
+        "theatre": "Lion Cinemas (Keraniganj)",
+        "url": "https://lioncinemas.com/",
+        "low": 300,
+        "high": 600,
+        "tip": "Lowest multiplex ticket price in Greater Dhaka (\u09f3300) on weekday afternoons.",
+        "times": []
+      }
+    ],
+    "Ultra HD Screens": [
+      {
+        "theatre": "Lion Cinemas (Keraniganj)",
+        "url": "https://lioncinemas.com/",
+        "low": 300,
+        "high": 600,
+        "tip": "Lowest multiplex ticket price in Greater Dhaka (\u09f3300) on weekday afternoons.",
+        "times": []
+      }
+    ],
+    "Premium Snacks": [
+      {
+        "theatre": "Lion Cinemas (Keraniganj)",
+        "url": "https://lioncinemas.com/",
+        "low": 300,
+        "high": 600,
+        "tip": "Lowest multiplex ticket price in Greater Dhaka (\u09f3300) on weekday afternoons.",
+        "times": []
+      }
+    ],
+    "Action Blockbuster": [
+      {
+        "theatre": "Lion Cinemas (Keraniganj)",
+        "url": "https://lioncinemas.com/",
+        "low": 300,
+        "high": 600,
+        "tip": "Lowest multiplex ticket price in Greater Dhaka (\u09f3300) on weekday afternoons.",
+        "times": []
+      }
+    ],
+    "Ready for the Ultimate Movie Experience?": [
+      {
+        "theatre": "Lion Cinemas (Keraniganj)",
+        "url": "https://lioncinemas.com/",
+        "low": 300,
+        "high": 600,
+        "tip": "Lowest multiplex ticket price in Greater Dhaka (\u09f3300) on weekday afternoons.",
+        "times": []
+      }
+    ],
+    "Contact Us": [
+      {
+        "theatre": "Lion Cinemas (Keraniganj)",
+        "url": "https://lioncinemas.com/",
+        "low": 300,
+        "high": 600,
+        "tip": "Lowest multiplex ticket price in Greater Dhaka (\u09f3300) on weekday afternoons.",
+        "times": []
+      }
+    ],
+    "We Accept Payment Methods": [
+      {
+        "theatre": "Lion Cinemas (Keraniganj)",
+        "url": "https://lioncinemas.com/",
+        "low": 300,
+        "high": 600,
+        "tip": "Lowest multiplex ticket price in Greater Dhaka (\u09f3300) on weekday afternoons.",
         "times": []
       }
     ],
